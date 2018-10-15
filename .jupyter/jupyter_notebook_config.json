@@ -1,0 +1,10 @@
+{
+  "NotebookApp": {
+    "open_browser": false,
+    "token": "",
+    "nbserver_extensions": {
+      "jupyter_nbextensions_configurator": true
+    },
+    "password": "sha1:45b9874d66ca:450a98c9a2812777babe29a8291118cf56daeaa3"
+  }
+}
